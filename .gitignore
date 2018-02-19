@@ -31,3 +31,9 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# datasets 
+datasets/*.gz
+inputs/*.zip
+results/*.zip
+softwares/*
